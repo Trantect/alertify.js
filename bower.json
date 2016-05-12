@@ -1,0 +1,14 @@
+{
+  "name": "trantect-alertify",
+  "homepage": "https://github.com/Trantect/alertify.js",
+  "authors": [
+    "walker <walker.zhai@trantect.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "alertify",
+    "trantect"
+  ],
+  "license": "MIT"
+}
